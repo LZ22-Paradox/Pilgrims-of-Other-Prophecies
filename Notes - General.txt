@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/14lqMYly73FaQUgNzHcbNiyfnUVpCUFyIEcFklX9WZBU/edit?usp=sharing
+
 # The Code Below in Country Common Files Can Change Country's Color Based on Government:
 
 ## Common File
@@ -18,3 +20,7 @@ govt_flag = {
 # REGEX
 ^owner\s*=[^\r\n]*
 ^controller\s*=\sTAG[^\r\n]*
+
+# Notes
+Add a decision to spend money to reduce infamy, but if the money is just subtracted from your balance, this might have a substantial deflationary effect on the economy.
+The solution is to have the decision transfer 20 mil to the host nation instead.
