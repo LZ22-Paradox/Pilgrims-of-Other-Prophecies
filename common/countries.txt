@@ -4,6 +4,8 @@ REB 	= 	"countries/rebels.txt"
 
 # PoOP Great Powers
 FRA		= "countries/Gaul.txt"
+MEX		="countries/Caliphornia.txt"
+TEX		="countries/Long.txt"
 
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"
@@ -216,7 +218,6 @@ GUA		="countries/Guatemala.txt"
 HAI		="countries/Haiti.txt"
 HAW		="countries/Hawaii.txt"
 MAN		="countries/Manhattan Commune.txt"
-MEX		="countries/Mexico.txt"
 MTC		="countries/Metis Confederacy.txt"
 HON		="countries/Honduras.txt"
 NEN		="countries/New England.txt"
@@ -224,7 +225,6 @@ NEW		="countries/Newfoundland.txt"
 NIC		="countries/Nicaragua.txt"
 PNM		="countries/Panama.txt"
 QUE		="countries/Quebec.txt"
-TEX		="countries/Texas.txt"
 UCA		="countries/United States of Central America.txt"
 
 # South America

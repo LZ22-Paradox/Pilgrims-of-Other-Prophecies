@@ -1,6 +1,6 @@
 capital = 133
-primary_culture = texan
-culture = mexican
+primary_culture = dixie
+culture = texan
 religion = placeholder
 government = democracy
 plurality = 25.0

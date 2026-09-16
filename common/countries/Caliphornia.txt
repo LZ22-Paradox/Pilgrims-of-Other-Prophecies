@@ -1,5 +1,5 @@
-color = { 173  242  175 }
-graphical_culture = Generic
+color = { 103  131  120 }
+graphical_culture = MiddleEasternGC
 
 party = {
 	name = "generic_conservative"

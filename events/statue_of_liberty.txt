@@ -24,7 +24,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "Mexico"
+		name = "Caliphornia"
 		MEX = {
 			country_event = { id=19300 days=0 }
 		}
