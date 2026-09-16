@@ -1610,6 +1610,9 @@ PEU_2302 = { 2302 2300 2301 2303 2286 2286 } #Ucayali y Cusco
 
 #PEU_2303 = { 2304 2578 } #Arequipa
 
+# Russia / Black Sea
+
+RUS_1042 = { 2776 } #Hellscape; The Black Sands
 
 
 

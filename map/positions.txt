@@ -95915,7 +95915,7 @@
 
     }
 
-} # Valparaúo
+} # Valparaúo
 
 2325 = {
     text_position = {
@@ -99712,7 +99712,7 @@
 
     }
 
-} # São Luú
+} # São Luú
 
 2424 = {
     unit = {
@@ -112488,8 +112488,9 @@
     }
 
     text_scale = 3.999998
-} # Sea of Azov
+}
 
+# Sea of Azov
 2776 = {
     unit = {
         x = 3376.000000
@@ -112502,8 +112503,9 @@
     }
 
     text_scale = 3.799999
-} # Eastern Black Sea
+}
 
+# Eastern Black Sands
 2777 = {
     unit = {
         x = 3410.000000

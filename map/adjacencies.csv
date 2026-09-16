@@ -63,7 +63,7 @@
 759;763;sea;2760;0;Strait of Messina
 759;763;sea;2757;0;Strait of Messina
 837;827;sea;2765;0;Ionian Islands Strait
-966;1049;sea;2776;0;Strait of Azov
+#966;1049;land;2776;0;Strait of Azov
 3250;517;sea;2746;0;Strait of Gibraltar
 301;400;sea;2724;0;Calais-Canterbury
 502;501;sea;2748;0;Balearic Islands-Catalonia
@@ -644,16 +644,16 @@
 2775;967;sea;0;0;#Gulf of Odessa
 2775;968;sea;0;0;#Gulf of Odessa
 2775;970;sea;0;0;#Gulf of Odessa
-2776;964;sea;0;0;#Sea of Azov
-2776;965;sea;0;0;#Sea of Azov
-2776;966;sea;0;0;#Sea of Azov
-2776;967;sea;0;0;#Sea of Azov
-2776;973;sea;0;0;#Sea of Azov
-2776;976;sea;0;0;#Sea of Azov
-2776;979;sea;0;0;#Sea of Azov
-2776;1047;sea;0;0;#Sea of Azov
-2776;1048;sea;0;0;#Sea of Azov
-2776;1049;sea;0;0;#Sea of Azov
+2776;964;land;0;0;#Plains of Azov
+2776;965;land;0;0;#Plains of Azov
+2776;966;land;0;0;#Plains of Azov
+2776;967;land;0;0;#Plains of Azov
+2776;973;land;0;0;#Plains of Azov
+2776;976;land;0;0;#Plains of Azov
+2776;979;land;0;0;#Plains of Azov
+2776;1047;land;0;0;#Plains of Azov
+2776;1048;land;0;0;#Plains of Azov
+2776;1049;land;0;0;#Plains of Azov
 2777;880;sea;0;0;#Eastern Black Sea
 2777;882;sea;0;0;#Eastern Black Sea
 2777;883;sea;0;0;#Eastern Black Sea
