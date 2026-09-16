@@ -299,9 +299,9 @@ PRU = {
     color3= { 255 255 255  }
 }
 
-# France
+# France | Gaul Green (84A385)
 FRA = {
-    color1= { 63 125 214  }
+    color1= { 132 163 133  }
     color2= { 129 177 125  }
     color3= { 121 162 109  }
 }

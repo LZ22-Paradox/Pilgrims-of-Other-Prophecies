@@ -2,10 +2,12 @@
 #Do not remove this rebel entry.
 REB 	= 	"countries/rebels.txt"
 
+# PoOP Great Powers
+FRA		= "countries/Gaul.txt"
+
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"
 RUS		= "countries/Russia.txt"
-FRA		= "countries/France.txt"
 PRU		= "countries/Prussia.txt"
 GER		= "countries/Germany.txt"
 AUS		= "countries/Austria.txt"
@@ -14,7 +16,6 @@ JAP		= "countries/Japan.txt"
 ITA		= "countries/Italy.txt"
 AIT		= "countries/Anti-Italy.txt"
 KUK		= "countries/Austria-Hungary.txt"
-
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"

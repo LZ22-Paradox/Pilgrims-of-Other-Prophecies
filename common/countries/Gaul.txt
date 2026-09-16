@@ -1,4 +1,4 @@
-color = { 20  50  210 }
+color = { 132 163 133 }
 graphical_culture = FrenchGC
 
 party = {
@@ -381,7 +381,7 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Condorcet" "Danton" "Diderot" "Mirabeau" "Vergniaud" "Voltaire" "Courbet" "France"
+		"Condorcet" "Danton" "Diderot" "Mirabeau" "Vergniaud" "Voltaire" "Courbet" "Gaul"
 		"Jean Bart" "Paris" "Fleurus" "Bretagne" "Lorraine" "Provence" "Bearn" "Flandre"
 		"Gascoigne" "Languedoc" "Normandie" "Dunkerque" "Strasbourg" "Richelieu" "Jean Bart"
 		"Guyenne" "Champagne" "Auvergne" "Lille" "Lyon" "Orleans" "La Rochelle" "Bourdeaux"
