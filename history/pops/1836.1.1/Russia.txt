@@ -839,15 +839,6 @@
     }
 }
 
-#Plains of Azov (1000 POPS)
-2776 = {
-    clergymen = {
-        culture = russian
-        religion = placeholder
-        size = 1000
-    }
-}
-
 #Archangelsk Region (219300)
 #under the rule of Russia in 1836
 #Archangel (138000/34500 POPS)
@@ -9966,5 +9957,23 @@
         culture = japanese
         religion = placeholder
         size = 925
+    }
+}
+
+#Plains of Azov (1000 POPS)
+2776 = {
+    clergymen = {
+        culture = russian
+        religion = placeholder
+        size = 1000
+    }
+}
+
+#Eastern Black Sands (1000 POPS)
+2777 = {
+    clergymen = {
+        culture = russian
+        religion = placeholder
+        size = 1000
     }
 }

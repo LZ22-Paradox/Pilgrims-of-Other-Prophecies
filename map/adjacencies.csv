@@ -63,7 +63,9 @@
 759;763;sea;2760;0;Strait of Messina
 759;763;sea;2757;0;Strait of Messina
 837;827;sea;2765;0;Ionian Islands Strait
-#966;1049;land;2776;0;Strait of Azov
+
+#Keeping the straight of Azov. It is useful.
+966;1049;land;2776;0;Strait of Azov
 3250;517;sea;2746;0;Strait of Gibraltar
 301;400;sea;2724;0;Calais-Canterbury
 502;501;sea;2748;0;Balearic Islands-Catalonia
@@ -654,15 +656,15 @@
 2776;1047;land;0;0;#Plains of Azov
 2776;1048;land;0;0;#Plains of Azov
 2776;1049;land;0;0;#Plains of Azov
-2777;880;sea;0;0;#Eastern Black Sea
-2777;882;sea;0;0;#Eastern Black Sea
-2777;883;sea;0;0;#Eastern Black Sea
-2777;884;sea;0;0;#Eastern Black Sea
-2777;886;sea;0;0;#Eastern Black Sea
-2777;1049;sea;0;0;#Eastern Black Sea
-2777;1094;sea;0;0;#Eastern Black Sea
-2777;1095;sea;0;0;#Eastern Black Sea
-2777;1096;sea;0;0;#Eastern Black Sea
+2777;880;land;0;0;#Eastern Black Sands
+2777;882;land;0;0;#Eastern Black Sands
+2777;883;land;0;0;#Eastern Black Sands
+2777;884;land;0;0;#Eastern Black Sands
+2777;886;land;0;0;#Eastern Black Sands
+2777;1049;land;0;0;#Eastern Black Sands
+2777;1094;land;0;0;#Eastern Black Sands
+2777;1095;land;0;0;#Eastern Black Sands
+2777;1096;land;0;0;#Eastern Black Sands
 2781;921;sea;0;0;#Gulf of Suez
 2781;922;sea;0;0;#Gulf of Suez
 2781;1152;sea;0;0;#Gulf of Suez
