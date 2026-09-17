@@ -152,14 +152,14 @@ tier_2_focus =
 		craftsmen = 0.25
 		icon = 17
 		limit = {
-			owner = { 
-				has_country_flag = tier_2
+			AND = {
+				owner = { 
+					has_country_flag = tier_2
+				}
+				civilized = yes
 			}
 		}
 		outliner_show_as_percent = yes
-		limit = { 
-			civilized = yes
-		}
 	}
 
 	promote_officers_2 =

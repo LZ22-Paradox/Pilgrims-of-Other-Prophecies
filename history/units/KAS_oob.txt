@@ -2,15 +2,15 @@ leader = {
 	name = "Zovawar Singh"
 	type = land
 	date = 1836.1.1
-	personality = sharp
-	background = spoiled
+	personality = defence_1.127
+	background = attack_minus_2.82
 }
 
 leader = {
 	name = "Gulub Singh"
 	type = land
 	date = 1836.1.1
-	personality = competent
+	personality = defence_1.11
 	background = aristocrat
 }
 

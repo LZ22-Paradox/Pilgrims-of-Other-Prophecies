@@ -120,18 +120,6 @@ GEO_anarcho_liberal;Sakartvelos Gza;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 GEO_socialist;Sakartvelos Leiboristuli;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 GEO_communist;Sakartvelos Komunisturi;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 GEO_fascist;Erovnuli Sotsialisturi;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-scottish;Scottish;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-ITA_reactionary;Fazione Monarchica;Restorationiste;Ristorazionista;;Restauracionistas;;;;;;;;;x;;;;
-ITA_conservative;La Destra;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-ITA_conservative_2;Partito Liberale Italiano;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-ITA_conservative_3;Sinistra Dissidente;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-ITA_liberal;La Sinistra;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-ITA_liberal_2;Partito Repubblicano Italiano;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-ITA_socialist;L'Estrema;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-ITA_socialist_2;Partito Socialista Italiano;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-ITA_anarcho_liberal;L'Estrema Liberale;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-ITA_communist;Partito Comunista d'Italia;;;;;;;;;;;;;;;;;;;;;x;;;;
-ITA_fascist;Partito Nazionale Fascista;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PGG_reactionary;Jahriyya Menhuan;;;;;;;;;;;;;x;;;;
 PGG_liberal;Gaige Pai Zhenying;;;;;;;;;;;;;x;;;;
 PGG_conservative;Qa'id Jami al-Muslimin;;;;;;;;;;;;;x;;;;
@@ -161,10 +149,6 @@ BUL_liberal;Balgarski Zemedelski Naroden Sayuz;;;;;;;;;;;;x
 BUL_anarcho_liberal;Radoslavists;;;;;;;;;;;;x
 BUL_communist;Balgarska Komunisticheska Partiya;;;;;;;;;;;;x
 BUL_conservative;Mladoliberalna Partija-Toncevisti;;;;;;;;;;;;x
-CAN_socialist;Socialist Party of Canada;;;;;;;;;;;;x
-CAN_communist;Communist Party of Canada;;;;;;;;;;;;x
-CAN_conservative;Conservative Party of Canada;;;;;;;;;;;;x
-CAN_reactionary;Tories;;;;;;;;;;;;x
 CAN_liberal_1;Red Party;;;;;;;;;;;;x
 CAN_liberal_2;Liberal Party of Canada;;;;;;;;;;;;x
 DAI;Vietnam;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -1284,6 +1268,7 @@ ITA_liberal_2;Partito Repubblicano Italiano;Partito Repubblicano Italiano;Partit
 ITA_conservative_2;Partito Liberale Italiano;Partito Liberale Italiano;Partito Liberale Italiano;;Partito Liberale Italiano;;;;;;;;;x
 ITA_conservative_3;Partito Popolare Italiano;Partito Popolare Italiano;Partito Popolare Italiano;;Partito Popolare Italiano;;;;;;;;;x
 ITA_socialist;Partito Socialista Italiano;Partito Socialista Italiano;Partito Socialista Italiano;;Partito Socialista Italiano;;;;;;;;;x
+ITA_socialist_2;Partito Socialista Italiano;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ITA_anarcho_liberal;Estrema Sinistra Liberale;Estrema Sinistra Liberale;Estrema Sinistra Liberale;;Estrema Sinistra Liberale;;;;;;;;;x
 ITA_communist;Partito Comunista d'Italia;Partito Comunista d'Italia;Partito Comunista d'Italia;;Partito Comunista d'Italia;;;;;;;;;x
 ITA_fascist;Partito Nazionale Fascista;Partito Nazionale Fascista;Partito Nazionale Fascista;;Partito Nazionale Fascista;;;;;;;;;x

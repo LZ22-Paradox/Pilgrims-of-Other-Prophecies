@@ -112518,9 +112518,8 @@
     }
 
     text_scale = 4.799998
-}
+} # Lake Balaton
 
-# Lake Balaton
 2778 = {
     unit = {
         x = 3082.000000

@@ -3,22 +3,19 @@ song = {
         modifier = {
             factor = 1
         }
-    }
 }
 song = {
     name = "lacrimosa_kazoo.mp3"
         modifier = {
             factor = 1
         }
-    }
 }
 song = {
     name = "beethoven_kazoo.mp3"
         modifier = {
             factor = 1
         }
-    }
-}
+ }
 song = {
     name = "dvorak_kazoo.mp3"
 	chance = {
@@ -30,7 +27,6 @@ song = {
             factor = 0
             war = no
         }
-    }
 }
 song = {
 	name = "yma_o_hyd.mp3"
@@ -45,7 +41,6 @@ song = {
         modifier = {
             factor = 1
         }
-    }
 }
 song = {
 	name = "adayatthecourt.mp3"

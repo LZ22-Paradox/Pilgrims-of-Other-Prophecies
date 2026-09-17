@@ -1486,7 +1486,7 @@
     soldiers = {
         culture = mexican
         religion = placeholder
-        size = 0
+        size = 10
     }
 
     soldiers = {
@@ -1498,7 +1498,7 @@
     soldiers = {
         culture = mexican
         religion = placeholder
-        size = 0
+        size = 10
     }
 
     soldiers = {
@@ -1572,7 +1572,7 @@
     soldiers = {
         culture = mexican
         religion = placeholder
-        size = 0
+        size = 10
     }
 
     soldiers = {

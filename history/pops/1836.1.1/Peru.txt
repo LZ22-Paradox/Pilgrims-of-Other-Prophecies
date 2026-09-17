@@ -996,7 +996,7 @@
     bureaucrats = {
         culture = south_andean
         religion = placeholder
-        size = 0
+        size = 10
     }
 
     clergymen = {

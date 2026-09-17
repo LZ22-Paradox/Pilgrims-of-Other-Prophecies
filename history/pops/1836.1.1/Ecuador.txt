@@ -411,13 +411,13 @@
     bureaucrats = {
         culture = north_andean
         religion = placeholder
-        size = 0
+        size = 10
     }
 
     clergymen = {
         culture = north_andean
         religion = placeholder
-        size = 0
+        size = 10
     }
 
     artisans = {

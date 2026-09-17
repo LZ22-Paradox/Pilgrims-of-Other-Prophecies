@@ -1105,6 +1105,7 @@ country_event = {
 		clr_country_flag = indc2_flag
 		activate_technology = medicine
 	}
+}
 	
 	country_event = {
 	id = 999055
@@ -1129,7 +1130,7 @@ country_event = {
 }
 
 country_event = {
-	id = 999056
+	id = 999057
 	title = "Tech activation"
 	desc = "Naval Schools Reformed"
 	picture = "Unite"
