@@ -4,8 +4,8 @@ REB 	= 	"countries/rebels.txt"
 
 # PoOP Great Powers
 FRA		= "countries/Gaul.txt"
-MEX		= "countries/Caliphornia.txt"
-TEX		= "countries/Long.txt"
+MEX		="countries/Caliphornia.txt"
+TEX		="countries/Long.txt"
 
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"
