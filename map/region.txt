@@ -1606,13 +1606,13 @@ PEU_2291 = { 2290 2291 2292 2294 } #Cajamarca
 
 PEU_2295 = { 2295 2299 2293 2296 2297 2298 } #Lima
 
-PEU_2302 = { 2302 2300 2301 2303 2286 2286 } #Ucayali y Cusco
+PEU_2302 = { 2302 2300 2301 2303 2286 } #Ucayali y Cusco
 
 #PEU_2303 = { 2304 2578 } #Arequipa
 
 # Russia / Black Sea
 
-RUS_1042 = { 2776 2777 } #Hellscape; The Black Sands
+RUS_1042 = { 2776 2777 } #Hellscape; The Black Basin
 
 
 
