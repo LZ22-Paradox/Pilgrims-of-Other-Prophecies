@@ -9960,6 +9960,24 @@
     }
 }
 
+# Dunes of Varna (1000 POPS)
+2774 = {
+    clergymen = {
+        culture = russian
+        religion = placeholder
+        size = 1000
+    }
+}
+
+# Dunes of Odessa (1000 POPS)
+2775 = {
+    clergymen = {
+        culture = russian
+        religion = placeholder
+        size = 1000
+    }
+}
+
 #Plains of Azov (1000 POPS)
 2776 = {
     clergymen = {

@@ -1612,7 +1612,7 @@ PEU_2302 = { 2302 2300 2301 2303 2286 } #Ucayali y Cusco
 
 # Russia / Black Sea
 
-RUS_1042 = { 2775 2776 2777 } #Hellscape; The Black Basin
+RUS_1042 = { 2774 2775 2776 2777 } #Hellscape; The Black Basin
 
 
 

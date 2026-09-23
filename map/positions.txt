@@ -112460,8 +112460,9 @@
 
     text_rotation = 6.283185
     text_scale = 2.000000
-} # Gulf of Varna
+}
 
+# Dunes of Varna
 2774 = {
     unit = {
         x = 3282.000000
