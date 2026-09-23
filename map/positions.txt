@@ -112474,8 +112474,9 @@
     }
 
     text_scale = 5.299997
-} # Gulf of Odessa
+}
 
+# Gulf of Odessa
 2775 = {
     unit = {
         x = 3303.000000
